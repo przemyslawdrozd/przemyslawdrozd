@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 - **AWS Architect Associate** - Expires on 04.2026
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=przemyslawdrozd&label=Profile%20views&color=0e75b6&style=flat" alt="przemyslawdrozd" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=przemyslawdrozd&show_icons=true&locale=en&layout=compact" alt="przemyslawdrozd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=przemyslawdrozd&show_icons=true&locale=en&layout=compact&hide=java" alt="przemyslawdrozd" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=przemyslawdrozd&" alt="przemyslawdrozd" /></p>
