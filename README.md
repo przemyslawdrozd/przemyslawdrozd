@@ -28,9 +28,19 @@ Here are some ideas to get you started:
 - <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="20" height="20"/> Test libs ⭐⭐
 - <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/> React Native ⭐⭐
 
-### AWS Certifications
-- **AWS Developer Associate** - Expires on 11.2023
-- **AWS Architect Associate** - Expires on 04.2026
+### Certifications
+
+<a href="https://www.credly.com/earner/earned/badge/223a2b3a-3e98-4a26-b0f7-c8324a111d27" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Developer" width="230" height="230" />
+</a>
+<a href="https://www.credly.com/badges/5c153481-4c85-418a-898f-bdc6ed304926" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Architect" width="230" height="230" />
+</a>
+<a href="https://www.credly.com/earner/earned/badge/400d93e0-0986-4988-8b87-4ac495547b52" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="Terraform" width="230" height="230" />
+</a>
+
+<br><br> <!-- Adds vertical space between sections -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=przemyslawdrozd&label=Profile%20views&color=0e75b6&style=flat" alt="przemyslawdrozd" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=przemyslawdrozd&show_icons=true&locale=en&layout=compact&hide=java,jupyter%20notebook,solidity,html,css" alt="przemyslawdrozd" /></p>
