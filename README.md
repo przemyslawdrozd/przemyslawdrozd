@@ -38,8 +38,9 @@ Here are some ideas to get you started:
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Architect" width="210" height="210" />
 </a>
 <a href="https://www.credly.com/earner/earned/badge/400d93e0-0986-4988-8b87-4ac495547b52" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="Terraform" width="210" height="210" />
+  <img src="https://github.com/user-attachments/assets/e3f59776-f8cb-4852-94f1-22ab1b84a6b6" alt="Terraform" width="210" height="210" />
 </a>
+
 </div>
 
 <br><br> <!-- Adds vertical space between sections -->
