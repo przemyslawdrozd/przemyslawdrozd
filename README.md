@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## Certifications:
 
 <div align="center">
-<a href="https://www.credly.com/earner/earned/badge/223a2b3a-3e98-4a26-b0f7-c8324a111d27" target="_blank">
+<a href="https://www.credly.com/earner/earned/badge/0bc28aee-d5af-443c-9fd8-ee0a0dbe051a" target="_blank">
   <img src="https://github.com/user-attachments/assets/3c876323-3490-4aff-919a-a82134d77863" alt="AWS Data Engineer" width="210" height="210"/>
 </a>
 <a href="https://www.credly.com/earner/earned/badge/223a2b3a-3e98-4a26-b0f7-c8324a111d27" target="_blank">
